@@ -9,7 +9,7 @@ N-Queen game is designed using N-queen problem in Backtracking in Java. In this 
 
 ![image](https://user-images.githubusercontent.com/61484002/130069815-f6f8f37a-a2e6-4fdb-b589-9f466369bae7.png)
 
-When the user didn’t place the queens correctly so he end up with all the clashes on the board. And the solution is displayed on the console when the Solution button is pressed. When displaying the solution it uses backtracking to place the queen to give the optimization solution. Backtracking is an algorithmic technique for solving problems recursively by trying to build a solution incrementally, one piece at a time, removing solutions that fail to satisfy the constraints of the problem at any point of time. 
+When the user didn’t place the queens correctly then he end up with all the clashes on the board. And the solution is displayed on the console when the Solution button is pressed. When displaying the solution it uses backtracking to place the queen to give the optimization solution. Backtracking is an algorithmic technique for solving problems recursively by trying to build a solution incrementally, one piece at a time, removing solutions that fail to satisfy the constraints of the problem at any point of time. 
 
 ![image](https://user-images.githubusercontent.com/61484002/130070353-85d0d1e6-cd4a-425a-8ba8-2f2ef512becc.png)
 
